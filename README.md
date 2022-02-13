@@ -21,6 +21,8 @@ End the program.
 
 ## PROGRAM:
 ```
+#Developed by: Jegathish s
+#Register number: 212221230041
 import pandas as pd
 df = pd.read_csv('data.csv')
 print(df.head(10))
